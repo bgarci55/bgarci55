@@ -3,7 +3,7 @@
 <h3 align="left"> About Me </h3>
 
 <p> 
-  I'm an undergrad @ DePaul University, studying Computer Science expected to graduate in 2026. 
+  I'm a 3rd year undergrad @ DePaul University, studying Computer Science expected to graduate in 2026. 
 </p>
 
 <hr>
