@@ -26,7 +26,7 @@ CS Junior @ DePaul University
 
 <hr>
 
-<h3> Programming Languages </h3>
+<h3> Programming Languages & Tools </h3>
 
 <table style="width: 100%;">
     <tr style="width: 100%;">
