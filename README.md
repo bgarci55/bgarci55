@@ -32,37 +32,64 @@ CS Junior @ DePaul University
     <tr style="width: 100%;">
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-                   <a href = "https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  width="40" height="40"/> </a> 
-                <p style="padding: 0; margin: 0;">C</p>
+                <a href = "https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"  width="65" height="65"/> 
+				</a> 
+                <p style="padding: 0; margin: 0;"> C </p>
             </div>
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="https://techstack-generator.vercel.app/js-icon.svg" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">JavaScript</p>
+                <p style="padding: 0; margin: 0;"> JavaScript </p>
             </div>
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
                 <img src="https://techstack-generator.vercel.app/python-icon.svg" style="width: 65px; height: 65px;" />
-                <p style="padding: 0; margin: 0;">Python</p>
+                <p style="padding: 0; margin: 0;"> Python </p>
             </div>
         </td>
         <td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-  <a href = "https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <p style="padding: 0; margin: 0;">HTML</p>
+  				<a href = "https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+					<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="65" height="65"/> 
+				</a> 
+				<p style="padding: 0; margin: 0;"> HTML </p>
             </div>
         </td>
-        <td align="center" width="96">
+    	<td align="center" width="96">
             <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-  <a href = "https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <p style="padding: 0; margin: 0;">CSS</p>
+  				<a href = "https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+	  				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="65" height="65"/> 
+				</a> 
+				<p style="padding: 0; margin: 0;"> CSS </p>
             </div>
         </td>
 		<td>
 			<div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         		<img src="https://techstack-generator.vercel.app/react-icon.svg" style="width: 65px; height: 65px;" />
-        		<p style="padding: 0; margin: 0;">React</p>
+        		<p style="padding: 0; margin: 0;" align = "center"> React </p>
         	</div>
+		</td>
+		<td>
+			<div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+				<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
+        		<p style="padding: 0; margin: 0;" align = "center"> Java </p>
+			</div>
 		</td>
     </tr>
 </table>
+
+<h3 align = "center" > What I'm Currently Learning: </h3>
+
+<div align = "left">
+
+```python
+
+import fastapi
+import pandas
+
+```
+
+</div>
