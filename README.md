@@ -83,11 +83,16 @@ CS Junior @ DePaul University
 
 <br>
 
-```javascript
-who am I?
-```
+<div align = "left">
 
-I am a first-generation CS student dedicated to learning and spreading my knowledge through a student organization I founded and serve as President in named *SimplyCS*. We aim to foster a community within DePaul University through peer-to-peer programming tutoring. 
+```console
+bgarci55@GH:~$ whoami
+```
+</div>
+
+<p> 
+I am a first-generation CS student dedicated to learning and spreading my knowledge through a student organization I founded and serve as President in named SimplyCS. We aim to foster a community within DePaul University through peer-to-peer programming tutoring. 
+</p>
 
 <hr>
 
