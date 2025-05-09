@@ -93,7 +93,7 @@ I am a first-generation CS student dedicated to learning and spreading my knowle
 
 <h3 align = "center" > What I'm Currently Learning: </h3>
 
-<div align = "middle">
+<div align = "left">
 
 ```python
 
